@@ -1,6 +1,10 @@
 .App {
   text-align: center;
 }
+.category{
+  cursor: pointer;
+  margin-right: 3px;
+}
 
 .App-logo {
   height: 40vmin;
